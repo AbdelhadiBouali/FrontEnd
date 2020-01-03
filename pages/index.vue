@@ -1,6 +1,6 @@
 <template>
   <body class="home" style="backgrounf-image=src('../assets/home.png')">
-   <form class="cf" action="./home"><input  type="submit" value="GET STARTED !" id="input-submit"></form>
+   <form class="cf" action="./home"><input  type="submit" value="Découvrir les fonctionnalités" id="input-submit"></form>
   </body>
 </template>
 
